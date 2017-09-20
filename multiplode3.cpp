@@ -2,7 +2,7 @@
 
 using namespace std;
 
-long somaDosDigitos(String numero){
+long somarDigitos(String numero){
 	
 }
 
